@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisTestDrive.Api", "RedisTestDrive.Api\RedisTestDrive.Api.csproj", "{FA6ADFD4-4786-4196-938F-7042A67BAE64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisTestDrive.Common", "RedisTestDrive.Common\RedisTestDrive.Common.csproj", "{4E5427AD-40D4-42BD-8EB8-4A2ED1FD92A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA6ADFD4-4786-4196-938F-7042A67BAE64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6ADFD4-4786-4196-938F-7042A67BAE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6ADFD4-4786-4196-938F-7042A67BAE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6ADFD4-4786-4196-938F-7042A67BAE64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E5427AD-40D4-42BD-8EB8-4A2ED1FD92A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5427AD-40D4-42BD-8EB8-4A2ED1FD92A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5427AD-40D4-42BD-8EB8-4A2ED1FD92A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5427AD-40D4-42BD-8EB8-4A2ED1FD92A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
